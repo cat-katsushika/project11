@@ -4,3 +4,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/cat-katsushika/project11-client.git
+[submodule "dify-dsl"]
+	path = dify-dsl
+	url = https://github.com/cat-katsushika/project11-dify-dsl.git
